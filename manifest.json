@@ -1,37 +1,19 @@
 {
   "author": "Pavel Kohout",
   "contenttype": "prose",
-  "identifier": "kohout-katyne-774fbb0",
+  "edition": "beletrie",
+  "identifier": "kohout-katyne-e32344f",
   "languagecode": "cs",
   "modified": "2020-04-29T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Katyně",
-  "revision": "774fbb0",
+  "revision": "e32344f",
   "generatedAt": {
-    "date": "Fri Mar 25 2022 11:22:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648207377834
+    "date": "Fri Mar 25 2022 11:30:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648207815818
   },
   "documents": [
-    {
-      "title": "Katyně",
-      "file": "katyne_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "katyne_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Katyně",
       "file": "katyne_002.html",
@@ -39,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "katyne_001.html",
-      "next": "katyne_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Katyně",
-      "file": "katyne_003.html",
-      "words": 3,
-      "chars": 18,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "katyne_002.html",
-      "next": "katyne_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Katyně",
-      "file": "katyne_004.html",
-      "words": 88,
-      "chars": 578,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "katyne_003.html",
+      "order": 0,
+      "prev": null,
       "next": "katyne_005.html",
       "toc": [
         {
@@ -99,8 +41,8 @@
       "chars": 240,
       "ideas": 10,
       "role": "chapter",
-      "order": 4,
-      "prev": "katyne_004.html",
+      "order": 1,
+      "prev": "katyne_002.html",
       "next": "katyne_006.html",
       "toc": [
         {
@@ -119,7 +61,7 @@
       "chars": 535,
       "ideas": 3,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "katyne_005.html",
       "next": "katyne_007.html",
       "toc": [
@@ -139,7 +81,7 @@
       "chars": 52347,
       "ideas": 432,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "katyne_006.html",
       "next": "katyne_008.html",
       "toc": [
@@ -223,7 +165,7 @@
       "chars": 99634,
       "ideas": 376,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "katyne_007.html",
       "next": "katyne_009.html",
       "toc": [
@@ -314,7 +256,7 @@
       "chars": 84493,
       "ideas": 436,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "katyne_008.html",
       "next": "katyne_010.html",
       "toc": [
@@ -405,7 +347,7 @@
       "chars": 131954,
       "ideas": 428,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "katyne_009.html",
       "next": "katyne_011.html",
       "toc": [
@@ -503,7 +445,7 @@
       "chars": 111210,
       "ideas": 450,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "katyne_010.html",
       "next": "katyne_012.html",
       "toc": [
@@ -587,7 +529,7 @@
       "chars": 166563,
       "ideas": 807,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "katyne_011.html",
       "next": "katyne_013.html",
       "toc": [
@@ -713,9 +655,9 @@
       "chars": 7335,
       "ideas": 30,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "katyne_012.html",
-      "next": "katyne_014.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -735,20 +677,20 @@
       ]
     },
     {
-      "title": "Katyně",
-      "file": "katyne_014.html",
-      "words": 43,
-      "chars": 277,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 13,
+      "title": "Tiráž • Katyně",
+      "file": "colophon.html",
+      "words": 135,
+      "chars": 878,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "katyne_013.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -757,14 +699,14 @@
   ],
   "totals": {
     "all": {
-      "words": 107234,
-      "chars": 655207,
-      "ideas": 2995
+      "words": 107236,
+      "chars": 655218,
+      "ideas": 2997
     },
     "chapters": {
-      "words": 107230,
-      "chars": 655184,
-      "ideas": 2992
+      "words": 107096,
+      "chars": 654311,
+      "ideas": 2972
     }
   }
 }
