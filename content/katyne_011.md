@@ -866,7 +866,7 @@ P. S. Přikládám obálku s výhrou, kterou si Vaše kouzelná snoubenka zapo
 
 P. P. S. Je trapné připomínat, že tento dopis je FOR EYES ONLY, ale co dělat: ze schůzky v roce 1956 pronikla indiskrecí podrobná informace dokonce až ke spisovateli (!) Johnu F. Mortimerovi, který ji uveřejnil v knize Dokumente menschlicher Grausamkeit. Mám k Vám naprostou důvěru, ale jistota je jistota: píšu inkoustem, který odpoledne zmizí. Šťastnou cestu Vám i Jí.
 
-Brnk“
+_Brnk“_
 
   
 

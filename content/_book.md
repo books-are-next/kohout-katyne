@@ -2,8 +2,10 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Katyně
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Pavel Kohout
@@ -28,6 +30,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
