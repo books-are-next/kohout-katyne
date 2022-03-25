@@ -7,7 +7,9 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Kohout",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-04-29T00:00:00.000Z"
+      "modified": "2020-04-29T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -38,7 +40,7 @@
             "filename": "katyne_001.md",
             "xhtml": "katyne_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -52,7 +54,7 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -62,7 +64,7 @@
             "filename": "katyne_003.md",
             "xhtml": "katyne_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -74,7 +76,7 @@
             "filename": "katyne_004.md",
             "xhtml": "katyne_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -91,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "katyne_006.md",
@@ -103,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Vzkaz autora"
           },
           {
             "filename": "katyne_007.md",
@@ -116,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I"
           },
           {
             "filename": "katyne_008.md",
@@ -128,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II"
           },
           {
             "filename": "katyne_009.md",
@@ -140,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III"
           },
           {
             "filename": "katyne_010.md",
@@ -152,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "IV"
           },
           {
             "filename": "katyne_011.md",
@@ -164,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "V"
           },
           {
             "filename": "katyne_012.md",
@@ -176,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VI"
           },
           {
             "filename": "katyne_013.md",
@@ -188,13 +198,14 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zrození katyně"
           },
           {
             "filename": "katyne_014.md",
             "xhtml": "katyne_014.xhtml",
             "id": 13,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -386,6 +397,6 @@
       "user": "books-are-next",
       "repo": "kohout-katyne"
     },
-    "generatedAt": 1648206572068
+    "generatedAt": 1648207313088
   }
 }
