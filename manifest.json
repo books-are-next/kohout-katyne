@@ -1,0 +1,770 @@
+{
+  "author": "Pavel Kohout",
+  "contenttype": "prose",
+  "identifier": "kohout-katyne-774fbb0",
+  "languagecode": "cs",
+  "modified": "2020-04-29T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Katyně",
+  "revision": "774fbb0",
+  "generatedAt": {
+    "date": "Fri Mar 25 2022 11:22:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648207377834
+  },
+  "documents": [
+    {
+      "title": "Katyně",
+      "file": "katyne_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "katyne_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katyně",
+      "file": "katyne_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "katyne_001.html",
+      "next": "katyne_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katyně",
+      "file": "katyne_003.html",
+      "words": 3,
+      "chars": 18,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "katyne_002.html",
+      "next": "katyne_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katyně",
+      "file": "katyne_004.html",
+      "words": 88,
+      "chars": 578,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "katyne_003.html",
+      "next": "katyne_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katyně",
+      "file": "katyne_005.html",
+      "words": 38,
+      "chars": 240,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 4,
+      "prev": "katyne_004.html",
+      "next": "katyne_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katyně",
+      "file": "katyne_006.html",
+      "words": 80,
+      "chars": 535,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 5,
+      "prev": "katyne_005.html",
+      "next": "katyne_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Katyně",
+      "file": "katyne_007.html",
+      "words": 8851,
+      "chars": 52347,
+      "ideas": 432,
+      "role": "chapter",
+      "order": 6,
+      "prev": "katyne_006.html",
+      "next": "katyne_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II • Katyně",
+      "file": "katyne_008.html",
+      "words": 15930,
+      "chars": 99634,
+      "ideas": 376,
+      "role": "chapter",
+      "order": 7,
+      "prev": "katyne_007.html",
+      "next": "katyne_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "10",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "11",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "12",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "13",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "14",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "15",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "16",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "17",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "18",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "19",
+              "id": "19",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "III • Katyně",
+      "file": "katyne_009.html",
+      "words": 14067,
+      "chars": 84493,
+      "ideas": 436,
+      "role": "chapter",
+      "order": 8,
+      "prev": "katyne_008.html",
+      "next": "katyne_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "20",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "21",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "22",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "23",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "24",
+              "id": "24",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "25",
+              "id": "25",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "26",
+              "id": "26",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "27",
+              "id": "27",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "28",
+              "id": "28",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "29",
+              "id": "29",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IV • Katyně",
+      "file": "katyne_010.html",
+      "words": 21370,
+      "chars": 131954,
+      "ideas": 428,
+      "role": "chapter",
+      "order": 9,
+      "prev": "katyne_009.html",
+      "next": "katyne_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "30",
+              "id": "30",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "31",
+              "id": "31",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "32",
+              "id": "32",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "33",
+              "id": "33",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "34",
+              "id": "34",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "35",
+              "id": "35",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "36",
+              "id": "36",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "37",
+              "id": "37",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "38",
+              "id": "38",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "39",
+              "id": "39",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "40",
+              "id": "40",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "V • Katyně",
+      "file": "katyne_011.html",
+      "words": 18209,
+      "chars": 111210,
+      "ideas": 450,
+      "role": "chapter",
+      "order": 10,
+      "prev": "katyne_010.html",
+      "next": "katyne_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "41",
+              "id": "41",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "42",
+              "id": "42",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "43",
+              "id": "43",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "44",
+              "id": "44",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "45",
+              "id": "45",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "46",
+              "id": "46",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "47",
+              "id": "47",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "48",
+              "id": "48",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "49",
+              "id": "49",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VI • Katyně",
+      "file": "katyne_012.html",
+      "words": 27424,
+      "chars": 166563,
+      "ideas": 807,
+      "role": "chapter",
+      "order": 11,
+      "prev": "katyne_011.html",
+      "next": "katyne_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "50",
+              "id": "50",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "51",
+              "id": "51",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "52",
+              "id": "52",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "53",
+              "id": "53",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "54",
+              "id": "54",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "55",
+              "id": "55",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "56",
+              "id": "56",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "57",
+              "id": "57",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "58",
+              "id": "58",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "59",
+              "id": "59",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "60",
+              "id": "60",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "61",
+              "id": "61",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "62",
+              "id": "62",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "63",
+              "id": "63",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "64",
+              "id": "64",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zrození katyně • Katyně",
+      "file": "katyne_013.html",
+      "words": 1127,
+      "chars": 7335,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 12,
+      "prev": "katyne_012.html",
+      "next": "katyne_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zrození katyně",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "A cos tím má společného Katyně?",
+              "id": "acos-tím-mánbspspolečného-katyně",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Katyně",
+      "file": "katyne_014.html",
+      "words": 43,
+      "chars": 277,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "katyne_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 107234,
+      "chars": 655207,
+      "ideas": 2995
+    },
+    "chapters": {
+      "words": 107230,
+      "chars": 655184,
+      "ideas": 2992
+    }
+  }
+}

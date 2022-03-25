@@ -1305,7 +1305,7 @@ Když předtím, šťastně rozvedeni, seděli – nikdy nezneužil služebníh
 
 Neutěšené úvahy přerušil jako ‚blow up‘: podnět tak překvapivý, že Vlk zaryl nehty do Markétiny dlaně. Trhla sebou, ale hned zvláčněla a nechala se – vždyť byla zvyklá, že jí nejeden pacient prokousl ruku – drásat, vždycky jí působilo rozkoš odčerpávat do sebe jeho rozčilení; jen díky tomu byl schopen dát zmatenému nápadu tvar:
 
-A proč by měl Doktor zaniknout??
+_A proč by měl Doktor zaniknout??_
 
 Vždyť jediný, kdo ho odhalil vinou absurdní náhody, byl on! Opravdu jediný? Co když těch náhod bylo víc, ale všichni dospěli k témuž závěru: mocný Doktor nesmí padnout kvůli jakémusi nýmandu Vonáskovi! A opravdu odhalil! Co když Doktor přijímá podobu Vonáska, aby byl o to víc Doktorem?! Zkusil tomu nesmyslu uvěřit a zjistil, že by to po jistém úsilí šlo, zejména kdyby mu pomohl sám…
 
