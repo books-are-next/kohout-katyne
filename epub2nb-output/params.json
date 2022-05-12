@@ -52,7 +52,7 @@
             "filename": "katyne_002.md",
             "xhtml": "katyne_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -396,6 +396,6 @@
       "user": "books-are-next",
       "repo": "kohout-katyne"
     },
-    "generatedAt": 1648207746649
+    "generatedAt": 1652351525724
   }
 }

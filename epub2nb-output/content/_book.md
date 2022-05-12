@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - katyne_002.html
+  - promo.html
   - katyne_005.html
   - katyne_006.html
   - katyne_007.html

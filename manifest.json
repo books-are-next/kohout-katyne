@@ -1,22 +1,36 @@
 {
-  "author": "Pavel Kohout",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "kohout-katyne-e32344f",
-  "languagecode": "cs",
-  "modified": "2020-04-29T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Katyně",
-  "revision": "e32344f",
+  "author": "Pavel Kohout",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kohout-katyne-da0d3b8",
+  "revision": "da0d3b8",
+  "readingOrder": [
+    "promo.html",
+    "katyne_005.html",
+    "katyne_006.html",
+    "katyne_007.html",
+    "katyne_008.html",
+    "katyne_009.html",
+    "katyne_010.html",
+    "katyne_011.html",
+    "katyne_012.html",
+    "katyne_013.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Mar 25 2022 11:30:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648207815818
+    "date": "Thu May 12 2022 10:40:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352039943
   },
   "documents": [
     {
-      "title": "Katyně",
-      "file": "katyne_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +38,7 @@
       "order": 0,
       "prev": null,
       "next": "katyne_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Katyně",
@@ -42,7 +48,7 @@
       "ideas": 10,
       "role": "chapter",
       "order": 1,
-      "prev": "katyne_002.html",
+      "prev": "promo.html",
       "next": "katyne_006.html",
       "toc": [
         {
@@ -75,7 +81,7 @@
       ]
     },
     {
-      "title": "I • Katyně",
+      "title": "I",
       "file": "katyne_007.html",
       "words": 8851,
       "chars": 52347,
@@ -159,7 +165,7 @@
       ]
     },
     {
-      "title": "II • Katyně",
+      "title": "II",
       "file": "katyne_008.html",
       "words": 15930,
       "chars": 99634,
@@ -250,7 +256,7 @@
       ]
     },
     {
-      "title": "III • Katyně",
+      "title": "III",
       "file": "katyne_009.html",
       "words": 14067,
       "chars": 84493,
@@ -341,7 +347,7 @@
       ]
     },
     {
-      "title": "IV • Katyně",
+      "title": "IV",
       "file": "katyne_010.html",
       "words": 21370,
       "chars": 131954,
@@ -439,7 +445,7 @@
       ]
     },
     {
-      "title": "V • Katyně",
+      "title": "V",
       "file": "katyne_011.html",
       "words": 18209,
       "chars": 111210,
@@ -523,7 +529,7 @@
       ]
     },
     {
-      "title": "VI • Katyně",
+      "title": "VI",
       "file": "katyne_012.html",
       "words": 27424,
       "chars": 166563,
@@ -649,7 +655,7 @@
       ]
     },
     {
-      "title": "Zrození katyně • Katyně",
+      "title": "Zrození katyně",
       "file": "katyne_013.html",
       "words": 1127,
       "chars": 7335,
@@ -677,11 +683,11 @@
       ]
     },
     {
-      "title": "Tiráž • Katyně",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 135,
-      "chars": 878,
-      "ideas": 21,
+      "words": 118,
+      "chars": 750,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "katyne_013.html",
@@ -699,9 +705,9 @@
   ],
   "totals": {
     "all": {
-      "words": 107236,
-      "chars": 655218,
-      "ideas": 2997
+      "words": 107219,
+      "chars": 655090,
+      "ideas": 2992
     },
     "chapters": {
       "words": 107096,
