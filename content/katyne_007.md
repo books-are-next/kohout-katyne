@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Na Zelený čtvrtek vyšlo najevo, že Lízinka Tachecí talentovou zkoušku na dramatickou konzervatoř neudělala.
 
 Předseda komise, známý herec, sdělil její matce Lucii s nehranou lítostí, že se na tom jury usnesla až po bouřlivé diskusi, když i opakované pokusy prokázaly, že by se její dcera pro svou uzavřenost určitě daleko spíš uplatnila jako lékařka, badatelka nebo spisovatelka.
@@ -864,3 +866,5 @@ Lízinka upřímně
 ## 9
 
 kývla půvabnou hlavou.
+
+</section>

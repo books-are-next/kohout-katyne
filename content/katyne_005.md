@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 _Jürgenovi a Líze Braunschweigerovým z Lucernu,  
 kteří mě tak dlouho přesvědčovali,  
 že tahle kniha má byt napsána,  
@@ -15,3 +17,5 @@ kterého považuji
 za jejího prvního vydavatele_
 
 _PK_
+
+</section>

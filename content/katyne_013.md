@@ -3,6 +3,8 @@ title: Zrození katyně
 contentType: prose
 ---
 
+<section>
+
 Nudím už třetí generaci spoluobčanů vysvětlováním, proč naše země po druhé světové válce svobodně zvolila hlasy většiny svých voličů cestu k přeludu zvanému komunismus, kterého se pak se štěstím zbavila až v listopadu 1989. Neušetřím toho ani čtenáře této knihy:
 
 Předválečné Československo, tehdy jednu z první desítky prů­myslových zemí světa, těžce poškodila na konci dvacátých let dvacátého století světová hospodářská krize. Valná většina obyvatel to chápala jako naprosté selhání kapitalistického systému.
@@ -60,3 +62,5 @@ Ten román rozhodně není jen cíleným protestem proti instituci zvané trest 
 Když jsem na počítači dopsal tento text a pročítal jej, podtrhl mi všude červeně slovo katyně. Neměl je ve slovníku. Přidal jsem mu je tam tedy, i když jen pro pořádek. Průkopnice rovnoprávnosti v oboru Lízinka Tachecí je odsouhlasila svou půvabnou hlavou už před třiceti lety.
 
 P. K. 2007
+
+</section>

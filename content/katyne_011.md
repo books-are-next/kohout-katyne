@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Škola skončila v pátek 20. června. V sobotu začínalo léto a s ním ‚svatý týden‘ příprav na maturity. Vlk se pro něj rozhodl, nejen aby přiblížil SUPOV jiným středním školám, ale i z důvodů mnohem závažnějších. Potřeboval si předně odpočinout, protože po smrti
 
 ## 41
@@ -817,7 +819,9 @@ Bylo jedenáct, když přišli z jídelního vozu. Lízinka se uložila okamži
 
 Noc byla zas mimořádně jasná, obloha se dokonalostí přibližovala planetáriu. Zahlédl pomalu padat hvězdu, než si však stačil něco přát, zjistil, že je to satelit. Škoda, pomyslel si, ale hned se zastyděl, že by jeho soukromé štěstí měla vykoupit vesmírná katastrofa. Začal uvažovat, co vlastně čeká lidstvo v tom nepochopitelném prostoru, kde nejvzdálenější planeta soustavy není víc než branka vlastní zahrádky. Zalitoval, že mu není dvacet, aby se spíš dočkal prvního kontaktu s myslícími bytostmi, nikdy ho nepřestalo zajímat – jak rád parafrázoval básníka – „jsou-li tam kati taky…“; teď se však poprvé přistihl při myšlence, že si to nepřeje. Co byl jako pedagog nucen udělat si o svém povolání ucelený obraz, věděl, že teprv teď jaksepatří „nic neví“, a hrozil se, že by k tomu přibyla ještě problematika, kterou přestal chápat už u kvasarů. Zaplašil sci-fikci, která ho zatím opravdu nemusela pálit, a vrátil se v myšlenkách k dopisu, který našel ráno v recepci.
 
-  
+</section>
+
+<section>
 
 „Vážený bratránku,
 
@@ -901,3 +905,5 @@ Byl si jist, že se nese univerzál, ale to už také věděl, že oni dva se ne
 ## 49
 
 nešlo to.
+
+</section>
