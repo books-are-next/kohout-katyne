@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 V pátek 21. března večer, na prahu první noci nového jara, zazvonil u Šimsy telefon. Docent ležel na vojensky ustlaném gauči sám a oblečen. Pozoroval hru stínů na stropě, která zrcadlila jeho vnitřní neklid.
 
 První zazvonění neslyšel, při druhém až pátém pomalu, protože se tomu bránil celý jeho organismus, vyplouval ze snění; při sedmém se ho zmocnila nelibost, při osmém zlost, při devátém vztek a při desátém přímo fyzický odpor ke zvuku ztělesňujícímu neosobní síly, které ho manipulovaly celý život. Při jedenáctém se zařekl, že už nikdy neposlechne jinou autoritu než své srdce; zmobilizoval vůli a vrátil se k představám, ze kterých byl tak brutálně vyrušen. Při devatenáctém zazvonění ovládl bitevní pole v něm jeho odvěký nepřítel, který, jak si poprvé uvědomil, dosud vždycky porazil a rozprášil jeho druhé, svobodnější já: byl to dril. Uprostřed dvacátého
@@ -856,3 +858,5 @@ Bleskurychle se ohlédl. Müller nestál ani na špičkách, ani na chodidlech, 
 ## 40
 
 krk.
+
+</section>

@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Na pondělí 30. června měl Vlk do smrti vzpomínat. Od studentských let, kdy se doslova pročetl městskou knihovnou a vystál důlek na bidýlku divadla, opovrhoval příběhy, kde se v poslední kapitole či dějství všechno vyřeší a všichni šťastně vezmou. Teď bylo souzeno právě jemu, aby v jednom dni korunoval své dílo a život. Čekal ho nadlidský výkon a on se ho odvážil jen proto, že si věřil a spoléhal na své blízké. Jak byl teď vděčný za roky učitelování, kdy se naučil navázat s každým člověkem rychlý kontakt a získat jeho důvěru. A blahopřál si k rozhodnutí zůstat navždy po
 
 ## 50
@@ -71,9 +73,9 @@ třídě. Jednotné oblečení vymyslel Albert: když kvůli utajení neměli b�
 
 S jejich zevnějškem byl Vlk vcelku spokojen, ale pokud jde o šance, měl smíšené pocity. Výsledky písemek, které dělali v sobotu, obcházejíce už prázdné budovy odborných učilišť, kde na ně čekali jejich onesové, se extrémně rozcházely. Ze čtyř předmětů měl výbornou Albert. Tabulka třídního středu vypadala pestře:
 
-  
+</section>
 
-    
+<section>
 
 Žák
 
@@ -125,7 +127,9 @@ Tachecí Líz
 
 3
 
-  
+</section>
+
+<section>
 
 Šimon Hus měl tři nedostatečné a ones ze Sošky ho odmítl klasifikovat. Zná sice, napsal do posudku, každý orgán v těle, ale užívá pro ně výrazů, které by slušely rasovi nebo katovi; ones to hodnotil jako hloupou recesi. Vlk pochopitelně mohl dnes Šimona podržet, vždyť rozhodovala známka z hlavního předmětu. Zvítězil však jeho mysl pro fair play i reálná úvaha, že škole méně uškodí žák, který propadne při maturitě, než žák, který vybouchne po ní. Ponechal rozhodnutí osudu a komisi.
 
@@ -243,7 +247,9 @@ I elektrokuci Pavel zvládl. Popsal upevňování elektrod včetně rozstřiže
 
 Správně uvedl Pavel i obě soupeřící školy, nízko- a vysokovoltážní. Zatímco první, psal pod sebe na tabuli, pouští do těla
 
-  
+</section>
+
+<section>
 
  
 
@@ -259,7 +265,9 @@ Správně uvedl Pavel i obě soupeřící školy, nízko- a vysokovoltážní.
 
 … 500 voltů
 
-  
+</section>
+
+<section>
 
 a před vypnutím 5 vteřin 2000 voltů jako ránu z milosti, druhá začíná u deseti tisíc voltů a jde až do třiceti; ta je populární z filmu a televize, protože při ní efektně pohasínají světla v celé věznici. Nevýhodou první je někdy zdlouhavost, diskutovaná už v roce 1929, kdy Roy Paterson v Auburnu nabíjel, vyprávěl Pavel, Mary Farmerovou proudem jako baterii skoro hodinu, než přestala vřískat. Výhodou je, že ani tak dlouhý tok nezanechá jiné stopy než deformovanou hlavu, zkřivenou tvář a lehké popáleniny končetin. Naproti tomu Henry White v Ohiu, který přežil úvodních deset tisíc, byl po ztrojnásobení hotov hned, ale vyrazil z něho plamen a svědkové omdlévali smradem; hysterický lékař navíc prohlásil, že White byl v rozporu s rozsudkem upečen.
 
@@ -1595,3 +1603,5 @@ Překvapil je další potlesk, pravda, připomínal spíš tlukot holubích –
 ## 64
 
 – neuprd.
+
+</section>

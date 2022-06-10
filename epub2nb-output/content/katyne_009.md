@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 V pátek 21. prosince přijela na Kozorohu zima. Ještě ve čtvrtek ráno se zdálo, že mimořádně blátivý, mlhavý a lezavý podzim letos neskončí. Ale večer přestalo pršet, v noci klesla rtuť dvě čárky pod nulu a jitro se ohlašovalo sirénami sanitek, které nakládaly první fraktury. Kolem jedenácté začalo sněžit, napřed prachové, pak holubí a nakonec husí peří.
 
 Když se třída vracela z Kavěstry – měli rybí polévku, krocana a každý dostal s sebou půl vánočky –, dalo se už koulovat. Museli si dát zajít chuť, protože od dvou učil Vlk a ten nedochvilnost neodpouštěl. Netrestal nikdy hned, ale opozdilec mohl vzít jed, že až se bude procvičovat skřipec, španělská bota nebo mučení střídavým proudem, zvané od dob alžírské války ‚telefon‘, bude za figuranta vybrán on a dostane o závit, o klín či o dvacet voltů nad školní normu. Spokojili se tedy s tím, že se klouzali po umrzlém podkladu, až měkký sníh v gejzírech tryskal do výše jako vodní tříšť ve stopě lodi.
@@ -851,3 +853,5 @@ Autora našli při oblevě v polovině března. Ležel v košili pod první kl
 ## 29
 
 hrůzná, děsivá a plná nenávisti.
+
+</section>
