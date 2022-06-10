@@ -3,8 +3,6 @@ title: I
 contentType: prose
 ---
 
-  
-
 Na Zelený čtvrtek vyšlo najevo, že Lízinka Tachecí talentovou zkoušku na dramatickou konzervatoř neudělala.
 
 Předseda komise, známý herec, sdělil její matce Lucii s nehranou lítostí, že se na tom jury usnesla až po bouřlivé diskusi, když i opakované pokusy prokázaly, že by se její dcera pro svou uzavřenost určitě daleko spíš uplatnila jako lékařka, badatelka nebo spisovatelka.
@@ -14,8 +12,6 @@ Na Velký pátek se ukázalo, že Lízinka neuspěla ani při zkoušce na klasic
 Ředitel školy, významný pedagog, vylíčil matce s nelíčeným zármutkem, že se na tom sbor usnesl až po bojovém hlasování, když i nové testy potvrdily, že by se její dcera pro svůj zjev jistě mnohem lépe prosadila jako fotomodelka, manekýnka či
 
 ## 1
-
-  
 
 herečka.
 
@@ -157,8 +153,6 @@ Její muž ustoupil, aby mohla opět projít do koupelny.
 
 ## 2
 
-  
-
 on!
 
 – To je možné, ano, to je dokonce velmi pravděpodobné, řekl suše předseda komise pro pomoc při volbě povolání, – a byl to možná právě ten hausbót, pro který se můj předchůdce musel téhle funkce na hodinu vzdát.
@@ -243,8 +237,6 @@ zvolal předseda netrpělivě, protože začal z výrazu sekretářky chápat, 
 
 ## 3
 
-  
-
 úkonářka!
 
 – Co je to? zeptal se PhDr. Tachecí, když jeho žena skončila svou zprávu.
@@ -280,8 +272,6 @@ dodala paní Tachecí a on s ustrnutím spatřil v její tváři zářivý ú
 – to nedokážeš ty, půjdu k němu já a nabídnu mu všechno, co může nabídnout matka a
 
 ## 4
-
-  
 
 žena.
 
@@ -364,8 +354,6 @@ Cvaknutí oznámilo, že zavěsil. Doktor Tachecí učinil totéž a zůstal se
 – My pracujeme hlavně v sobotu, řekl profesor Vlk. – Vyřiďte laskavé poručení paní choti a dceruška ať klidně spí. Jestli je normální mladá a zdravá dívka, zvládne to jednou
 
 ## 5
-
-  
 
 rukou.
 
@@ -476,8 +464,6 @@ Doktor Tachecí postavil láhev na parkety.
 – Ne, ne, řekl profesor Vlk, dovolíte nám laskavě, abychom napřed zašli se slečnou
 
 ## 6
-
-  
 
 do koupelny?
 
@@ -685,8 +671,6 @@ zvolal srdečně, když se otevřely dveře a do pokoje vešla Lízinka, její�
 
 ## 7
 
-  
-
 katyně světa.
 
 Poslední slova už paní Tachecí neslyšela, protože je slyšet ne­potřebovala. Přemožena dojmy přistoupila k dceři, objala ji a přitiskla její drobnou tvář na svá plná ňadra.
@@ -714,8 +698,6 @@ Na chvíli ho zmátlo, že se ocitl v zimní krajině plné sáňkujících dě
 Tam svlékl sako a pověsil je těsně vedle věšáku. Pak si pečlivě posunul kravatu až na záda, aby ji nezamokřil, naklonil se nad vanu a popaměti roztočil kohoutek sprchy. Když ho studený proud léčivě udeřil do zátylku, otevřel oči. Spatřil další obraz, tentokrát zátiší, nature morte se slepicí a kaprem. Zatímco mu voda stékala po kravatě do kalhot, vzpomínal usilovně, kdo je namaloval a jak se dostalo do vany. Konečně mu došlo, že to není obraz, ale opravdu mrtvý
 
 ## 8
-
-  
 
 kapr a skutečně podříznutá slepice.
 
@@ -880,7 +862,5 @@ Lízinka upřímně pokrčila útlými ramínky.
 Lízinka upřímně
 
 ## 9
-
-  
 
 kývla půvabnou hlavou.

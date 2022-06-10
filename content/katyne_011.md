@@ -3,13 +3,9 @@ title: V
 contentType: prose
 ---
 
-  
-
 Škola skončila v pátek 20. června. V sobotu začínalo léto a s ním ‚svatý týden‘ příprav na maturity. Vlk se pro něj rozhodl, nejen aby přiblížil SUPOV jiným středním školám, ale i z důvodů mnohem závažnějších. Potřeboval si předně odpočinout, protože po smrti
 
 ## 41
-
-  
 
 docenta Šimsy – auto vyzvedli ze dna pod přehradním mostem už v pondělí 24. března, ale tělo zůstalo zřejmě přisáto k mříži turbin – táhl školu tři měsíce vlastní silou. Byl rád, že vůbec přežila: podle zákona schválnosti dostal Müller v neděli milost a byl přikázán do ochranné léčby, horko těžko se podařilo dokázat, že se oběsil sám. Šimsova nehoda znemožnila vyšetření, spomocníka podle popisu nenašli, a tak byl jen Hons potrestán snížením prémií. Na radu Doktora nežádal Vlk za docenta náhradu, aby případ nerozvířil. Dřel, spoléhaje na to, že po prázdninách ho už podepře jako asistent Albert.
 
@@ -134,8 +130,6 @@ Mohl ovšem nejet, ale požehnání, které dal cestě Nestor, vracelo škole kr
 Měsíc stoupal, ale nevynořil se, dávno přestal být kruhem a stále vycházel, až se nad obzorem objevila jak fata morgána bledá, ale zářící tvář Lízinky Tachecí. Vlk sebou trhl, pohlédl na hodinky a prudce vstal, uchopil kožený kufr, pelerínu i klobouk a vyběhl ze dveří. Tehdy si ještě neuvědomil, že mu Markéta proti svým zvyklostem
 
 ## 42
-
-  
 
 nezavolala.
 
@@ -289,8 +283,6 @@ Došel až k Vlkovi, zběžně na něho pohlédl, navlékl si glazé rukavice a
 
 ## 43
 
-  
-
 psací stůl, zvedl víko chránící psací stroj, zavedl do válce papír a pohodlně usedl.
 
 – Jméno! řekl sotva slyšitelně. – Jestli se mi tu budeš válet ještě vteřinu, přerazím ti nohy.
@@ -427,8 +419,6 @@ Hofbauer byl viditelně překvapen. – Vlk…?
 
 ## 44
 
-  
-
 se Fritz konečně ozve. Vaše informace o jeho tehdejším odjezdu mě utvrzuje, že provozuje svou praxi někde v Jižní Americe.
 
 Jak scházeli po točitých schodech, Adolf Hofbauer napřed a pak Vlk s Lízinkou, aby ji mohl případně zachytit, sílil opět zvuk připomínající štěkot a vytí.
@@ -527,8 +517,6 @@ kývla. Vlk ovšem věděl, že jako už od rána ani teď nerozuměla jedinému
 
 ## 45
 
-  
-
 voják, ale ne sebevrah. Válka je ztracena. Pomozte mi zmizet, a já se postarám, aby zmizela vaše minulost.
 
 Komisařův vždy perfektní tmavý oblek byl pomačkán, jindy sněhobílá košile nesla zřetelné stopy, že je použita nejméně podruhé. Ale k pocitu zadostiučinění měl Vlk daleko. Muž, který ho prvně vyhledal doma, připlíživ se po zatemnělém schodišti jako zloděj, byl ještě teď, kdy vlna fronty došplouchla až k městu, pánem jeho osudu: stačilo, aby zapomněl v trezoru své kanceláře pár protokolů s Vlkovým podpisem.
@@ -600,8 +588,6 @@ Ozval se prapodivný zvuk, jako kdyby se s bafnutím zažehl obrovský plynový
 Když plamen uhasl a Vlk ochutnal, musel uznat, že něco takového ještě neměl na jazyku. Ten
 
 ## 46
-
-  
 
 koňak, starší než elektrické světlo, jako by až po zahřátí číší uvolnil stoletou vůni i chuť. Teď bylo na něm, aby zatleskal. I Lízinčin obličejíček vyzařoval blaženství. Adolf Hofbauer se konečně vzpamatoval a slabě usmál. Když si představil, jak by na ztrátu Lízinky reagoval sám, uměl Vlk ocenit jeho sebeovládání. Navíc mu byl nevýslovně vděčen, že ho svým citovým vzplanutím donutil překonat mrtvý bod v životě a učinit rozhodnutí, k němuž by třeba jinak vzdor své přímé povaze nenašel odvahu. Přemýšlel, jak se mu odvděčit.
 
@@ -735,8 +721,6 @@ Zdvořilost nočního vrátného i recepčního dala tušit, že byli svými p�
 
 ## 47
 
-  
-
 o krk. Mladý, ale už trochu obézní advokát obešel obrovský mahagonový stůl, zjevně konfiskát po okupantech, jak naznačoval odšroubovaný inventární štítek, a usedl familiárně na opěradlo tlustého křesla, kam předtím ponořil Vlka. Vlk ucítil silný parfém.
 
 – Vy jste ty lidi, řekl advokát vědoucně, – udal, viďte, a on měl ta udání u sebe!
@@ -827,13 +811,13 @@ Vlk zívl. Byl unaven, ale jinak příjemně naladěn. Vzdáleně zaduněly tě�
 
 ## 48
 
-  
-
 pasová a celní kontrola přecházela do dalšího vagonu. Na této vnější straně hranic brali svou práci až příliš ležérně. Lízinku dokonce ani neodkryli, stačil jim proud vlasů vytékající zpod přikrývky na podlahu kupé. Vlkovi se tu potvrzovala teorie, že nejvyšší trest je nosným sloupem státu; je-li odstraněn, podobá se moc zvětralé filmové kulise, kterou porazí první vítr. Zvuky malého nádraží tlumil vlhký poklop noci. Hodiny na peroně ukazovaly za sedm minut dvě.
 
 Bylo jedenáct, když přišli z jídelního vozu. Lízinka se uložila okamžitě: džíny i tričko hodila prostě na koberec. Když spatřil její kufr v síti, usoudil Vlk, že spí jen v prádle, ale bylo mu líto budit ji kvůli pyžamu dřív než před hranicí. Jako vždy zaplašilo vědomí brzké povinnosti spánek. Ležel u stropu, a zatímco expres přetínal vzdálenost nejkratší možnou trasou, bloudily jeho myšlenky křížem krážem po celém životě. Třídil, sčítal a opisoval svá vítězství i prohry, jako by to byly předměty v bytě, který chce vyměnit. Přitom zapomněl na původní úmysl a hraniční kontrolu vzal vlastně na vědomí, až když odcházela. Pak se spustil z lůžka, otevřel okno a zhluboka dýchal vzduch vonící olejem i seny.
 
 Noc byla zas mimořádně jasná, obloha se dokonalostí přibližovala planetáriu. Zahlédl pomalu padat hvězdu, než si však stačil něco přát, zjistil, že je to satelit. Škoda, pomyslel si, ale hned se zastyděl, že by jeho soukromé štěstí měla vykoupit vesmírná katastrofa. Začal uvažovat, co vlastně čeká lidstvo v tom nepochopitelném prostoru, kde nejvzdálenější planeta soustavy není víc než branka vlastní zahrádky. Zalitoval, že mu není dvacet, aby se spíš dočkal prvního kontaktu s myslícími bytostmi, nikdy ho nepřestalo zajímat – jak rád parafrázoval básníka – „jsou-li tam kati taky…“; teď se však poprvé přistihl při myšlence, že si to nepřeje. Co byl jako pedagog nucen udělat si o svém povolání ucelený obraz, věděl, že teprv teď jaksepatří „nic neví“, a hrozil se, že by k tomu přibyla ještě problematika, kterou přestal chápat už u kvasarů. Zaplašil sci-fikci, která ho zatím opravdu nemusela pálit, a vrátil se v myšlenkách k dopisu, který našel ráno v recepci.
+
+  
 
 „Vážený bratránku,
 
@@ -867,8 +851,6 @@ P. S. Přikládám obálku s výhrou, kterou si Vaše kouzelná snoubenka zapo
 P. P. S. Je trapné připomínat, že tento dopis je FOR EYES ONLY, ale co dělat: ze schůzky v roce 1956 pronikla indiskrecí podrobná informace dokonce až ke spisovateli (!) Johnu F. Mortimerovi, který ji uveřejnil v knize Dokumente menschlicher Grausamkeit. Mám k Vám naprostou důvěru, ale jistota je jistota: píšu inkoustem, který odpoledne zmizí. Šťastnou cestu Vám i Jí.
 
 _Brnk“_
-
-  
 
 Zmínka o ní přehodila výhybku Vlkových myšlenek; ve svém těkavém pohybu dorazily zpět na pohraniční nádraží. Hlasitě klapla minutová ručička. Vzpomněl si, že za čtvrt hodiny přejezdem hranice výlet prakticky skončí, a v jeho duši se začal rodit úlevný mír člověka, který zvítězil nad sebou samým. Když jeho prsty včera v noci násilnicky utrhly knoflík od poklopce, vyřítilo se na bojiště Vlkovo lepší já, jemná, v podstatě lyrická duše, kterou nemohl uplatnit v zaměstnání, a proto se tím víc toužila prosadit v soukromém životě. Ne! Po Mašínovi a Šimsovi měla už Lízinka konečně jednou právo na takovou lásku, jaká patřila k jejímu zjevu i věku: lásku, která se nejdřív dlouho vine alejemi nesmělých něžností, než dospěje k pralesu vášně; rozhodl se nedopustit, aby s ním přeskočila jediné slůvko a pohlazení. Svár těla s duší vyústil v úmysl, který dával všemu řád: promluví napřed s Markétou! Je to citlivá a inteligentní žena, ještě řadu let kryta svou prací a pak zajištěna penzí, jediná mu vždycky rozuměla a porozumí i dnes. Až se přesvědčí, že je pevně rozhodnut, spadne z ní nervozita posledních dnů; pochopí, že rozchodem bude trpět nejvíc on, a určitě mu ho neztíží slepičími nářky. Přímo slyšel slova, kterými mu dává svobodu, a zalila ho lítostivá vděčnost; ta také vypnula elektrický proud touhy po spící dívce. Odešel do svého pokoje, vysprchoval se a uvolněně usnul.
 
@@ -917,7 +899,5 @@ Vlk byl ihned při smyslech. Pohlédl na zajištěnou kliku, která se otřásal
 Byl si jist, že se nese univerzál, ale to už také věděl, že oni dva se nemají čeho bát. Bleskurychle si natáhne pyžamové kalhoty – netušil, kdy je skopl, ale byly jistě bez poskvrny – a ona bude prostě předstírat, že jí ve spánku jako každý měsíc přijela… Pohnul se, aby z ní vyšel. Málem vykřikl. Úd byl uzavřen v dívce jako v kleštích. Opatrně to zkusil ještě jednou, ale
 
 ## 49
-
-  
 
 nešlo to.
