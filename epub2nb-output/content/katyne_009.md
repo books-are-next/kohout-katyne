@@ -3,8 +3,6 @@ title: III
 contentType: prose
 ---
 
-  
-
 V pátek 21. prosince přijela na Kozorohu zima. Ještě ve čtvrtek ráno se zdálo, že mimořádně blátivý, mlhavý a lezavý podzim letos neskončí. Ale večer přestalo pršet, v noci klesla rtuť dvě čárky pod nulu a jitro se ohlašovalo sirénami sanitek, které nakládaly první fraktury. Kolem jedenácté začalo sněžit, napřed prachové, pak holubí a nakonec husí peří.
 
 Když se třída vracela z Kavěstry – měli rybí polévku, krocana a každý dostal s sebou půl vánočky –, dalo se už koulovat. Museli si dát zajít chuť, protože od dvou učil Vlk a ten nedochvilnost neodpouštěl. Netrestal nikdy hned, ale opozdilec mohl vzít jed, že až se bude procvičovat skřipec, španělská bota nebo mučení střídavým proudem, zvané od dob alžírské války ‚telefon‘, bude za figuranta vybrán on a dostane o závit, o klín či o dvacet voltů nad školní normu. Spokojili se tedy s tím, že se klouzali po umrzlém podkladu, až měkký sníh v gejzírech tryskal do výše jako vodní tříšť ve stopě lodi.
@@ -12,8 +10,6 @@ Když se třída vracela z Kavěstry – měli rybí polévku, krocana a kaž
 Před začátkem hodiny stála Lízinka u okna Kaproklasu a uždi­bovala vánočku, kterou zamyšleně držela u rtů jako obrovské lízátko. Tak ji zastihl
 
 ## 20
-
-  
 
 Richard. Ačkoli ji naposled viděl před několika minutami, kdy s vlasy dětsky stočenými pod pletenou čepici plachtila po jeho boku vířícím sněhem jako štíhlý panoš, pocítil, jak se mu bolestně stahuje srdce a sotva zhojené plíce stěží lapají dech. Prožíval každé setkání s ní tak intenzivně, že se snažil opouštět ji co nejméně. Čekával na ni ráno u stanice trolejbusu, kterým přijížděla, skryt v průjezdu, aby svou tachykardii i kyslíkový šok překonal beze svědků. Kontrolou u vchodu i strážním koridorem šel za ní tak, aby ji neztratil z dohledu, a doháněl ji až na schodech mezi druhým a třetím patrem, dost vysoko, aby maskoval svůj rozjitřený stav fyzickou námahou.
 
@@ -42,8 +38,6 @@ Richard strhl z dívky šaty, podrazil jí nohy a pevně ji připoutal tak, ž
 – Špatně! řekl profesor Vlk suše, – sedněte, píšu vám –
 
 ## 21
-
-  
 
 – nedostatečnou.
 
@@ -82,8 +76,6 @@ Richard si svlékl bundu, tričko, kalhoty i ponožky a vše pečlivě pověsi
 Zaváhání jim prozradilo, že se ostýchá. Hned však uposlechl. S plavečkami v ruce, jako by se bál, že s nimi odloží celou důstojnost, stál před nimi nahý v kuželi světla, které sem jako na jeviště vrhalo otevřeným oknem zapadající slunce. Bylo to na sklonku
 
 ## 22
-
-  
 
 léta, těsně předtím, než právě sem, do místnosti budoucího Kaproklasu, napochodovali trestanci-tesaři, aby podle projektu z Divadelního ústavu (úkol: pódium pro pašijové hry) postavili jedno ze dvou školních úkonišť. Z prostor budoucího Kapromodu na protější straně chodby se už ozýval koncert přítlukových vrtaček; podle projektů dalších onesů tam dokončovali plynovou komoru (úkol: přetlaková kabina pro výcvik potápěčů), komoru pro elektrokuci (úkol: zubařské křeslo pro kosmickou loď) a především přístroj zvaný postaru šibenice, úředně ‚zařízení pro výkon úkonu věšení‘, pro který Vlk vymyslel filozofickou šifru věřín (úkoly: a/ stojan s ramenem na zavěšení obří kuželníkové koule, b/ divadelní propadlo na principu páky). Jediným mobiliářem tu bylo zatím pár židlí a katedra, za kterou seděli Vlk a Šimsa, aby uzavřeli poslední z přijímacích řízení.
 
@@ -278,8 +270,6 @@ Vešla Richardova matka s mísou, ze které se kouřilo. Ráznými pohyby – 
 
 ## 23
 
-  
-
 vánočnímu stolu. Richard sklonil hlavu k talíři a snažil se neslyšet sprostá slova, kterými matce odpovídal otec. Panebože, pomyslel si, zas ta stejná písnička.
 
 Rodiče nebyli zlí lidé a jeho, jedináčka, dokonce zbožňovali, ale jejich drsné způsoby zavinily, že nikdy ani vzdáleně nepoznal, co mu literatura líčila jako „home, sweet home“. Jeho zjemnělost padala, jak se v rodině hrdě tradovalo, na vrub gruzínského šlechtice, kterého za první války poslali babičce na výpomoc ze zajateckého lágru. V jeho genech, jimiž se post mortem obtiskl až na vnukovi, byla nejspíš zakódována jak Richardova nemoc, tak láska k poezii. Jistě jen modré krvi, která rozpouští tuk, mohl děkovat, že se po všech ovarech, bůčcích, škvarkách a biskupech, které mu rodiče dávali už k snídani, neproměnil v žok sádla. Ačkoli rodinné řeznictví spolkla hodující revoluce, stačilo pár let a rodiče stáli opět za pultem, když jim nakonec popeláři a pradleny raději dali nejlepší doporučení, než aby dále trpěli jejich jadrnou řečí. V mamutí síti státního obchodu jim byl svěřen zastrčený krámek, ale nezáleží na poloze a rozloze dolu, jako na žíle. Tato už třetí den páchla, ale ustavičně vydávala zlato. Richard byl zahrnován přepychem – vždyť za každé krize se stává řezník spolu s farářem pavézou naděje, hýčkanou i v míru – a péčí; jaké stádo prasat sežrali jen jeho učitelé a lékaři! Večer co večer si umiňoval, že to musí rodičům splatit vděčným zájmem, ale ráno stačilo první „hovno“, které pronesli místo pozdravu, aby se stáhl do své ulity.
@@ -295,8 +285,6 @@ Tu se židle změnila v elektrické křeslo a on pocítil, jaké to je, když 
 Jedli rychle, aby mohli v klidu vychutnat televizní večerníček. Byl o tom, jak zvířátka nesla dary do Betléma a křeček měl prázdné ruce, všichni se mu smáli, než se ukázalo, že má plné lícní torby zrní; smál se tedy nakonec, a proto nejlíp. Pak zapálila matka svíce a otec otevřel vzácný výtisk Bible, aby jako každoročně přečetl pasáž o Dítěti, které se narodilo z Panny. Text mu připomněl dítě, které se narodilo z něho, a zalitoval, že není znovu o rok mladší, aby mu připravil lepší osud. Lízinka
 
 ## 24
-
-  
 
 sledovala mihotání svící, které vydávaly svědectví o jinak ne­viditelném proudění vzduchu. Plamínky spodních se nakláněly od kuchyně k ložnici. Plamínky nejvyšších směřovaly od předsíně k oknům. Plamínky svící na prostředních větvích hořely rovně jako svíce.
 
@@ -626,8 +614,6 @@ Doktor Tachecí velmi opatrně vystoupil ze střepů, pečlivě je posbíral a 
 
 ## 25
 
-  
-
 do vany.
 
 Zvrátil hlavu dozadu a zavřel oči. V hlavě mu začala šumět krev.
@@ -722,8 +708,6 @@ Ráno nešel ani na plánovaný výlet, aby se mohl brzy po obědě vydat nejkra
 
 ## 26
 
-  
-
 osmé ráno. Jako šílený se zvedl z parket, naházel do vaku, co mu přišlo pod ruku, strhl z věšáku oranžovou větrovku, popadl lyže a řítil se ze schodů. Do nabité tramvaje se nevešel a čekání na další neriskoval. Běžel okrajem jízdní dráhy, mávaje na každé vozidlo; s rozevřeným vakem a nesvázanými lyžemi působil však jako nebezpečný blázen. Proběhl tedy půl města pěšky a na místo srazu dorazil blízek mdlobám. Čekali už jenom na něho.
 
 – No ovšem, řekl docent Šimsa ironicky, – pan Mašín!
@@ -763,8 +747,6 @@ Když otevřel dveře jídelny, nemohl zprvu poznat, co to hrají za hru. Stoly 
 tančili. Richard
 
 ## 27
-
-  
 
 omdlel.
 
@@ -828,8 +810,6 @@ Od kleče, která včera marně čekala na zvuk jeho veršů, sbíhala s rozpá
 
 ## 28
 
-  
-
 smála.
 
 Byl to zdařilý, veselý, po všech stránkách vyvedený Silvestr, přestože venku zuřila bouře, jakou nepamatoval ani správce. Vichr přerušil elektrické vedení. Ani to nikomu nevadilo. Dostatek tepla, svící, hudby a především vína – pedagogové se shodli, že dnes přimhouří oči – způsobil, že nálada byla znamenitá. K úplné spokojenosti jim chyběl jen Richard.
@@ -869,7 +849,5 @@ Richard Mašín._
 Autora našli při oblevě v polovině března. Ležel v košili pod první klečí vpravo nad chatou. Jeho tvář, kterou nabalzamoval mráz, byla
 
 ## 29
-
-  
 
 hrůzná, děsivá a plná nenávisti.

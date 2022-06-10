@@ -3,8 +3,6 @@ title: Zrození katyně
 contentType: prose
 ---
 
-  
-
 Nudím už třetí generaci spoluobčanů vysvětlováním, proč naše země po druhé světové válce svobodně zvolila hlasy většiny svých voličů cestu k přeludu zvanému komunismus, kterého se pak se štěstím zbavila až v listopadu 1989. Neušetřím toho ani čtenáře této knihy:
 
 Předválečné Československo, tehdy jednu z první desítky prů­myslových zemí světa, těžce poškodila na konci dvacátých let dvacátého století světová hospodářská krize. Valná většina obyvatel to chápala jako naprosté selhání kapitalistického systému.
@@ -20,8 +18,6 @@ Sovětském svazu samotném a v zemích, které ovládal, začalo takzvané t�
 Ten brzy už celonárodní experiment zvaný pražské jaro 1968 je u nás hodnocen kontroverzně, ale ve světě respektován. Stal se ostatně modelem, který v konci osmdesátých let užili sami sovětští reformátoři, jak přiznává otec perestrojky a glasnosti Michail Gorbačov.
 
 ## A cos tím má společného Katyně?
-
-  
 
 Tanky, které 21. srpna 1968 okupovaly tehdejší ČSSR, zahájily dvacetileté moderní temno vyhlašované jakožto normalizace. Většina představitelů reformy zůstala přesto ve vlasti, protože se nechtěli chovat jako uličníci, kteří zazvonili a utečou.
 

@@ -3,8 +3,6 @@ title: II
 contentType: prose
 ---
 
-  
-
 1. září ve tři čtvrtě na osm ráno zavřel doktor Tachecí, sedící vpředu, oči a snažil se vsugerovat si, že portál, k němuž se taxi blíží, patří filozofické fakultě.
 
 Paní Tachecí se rozpomínala na svou cestu k vyšší dívčí. Viděla se opět s trvalou, na vysokých kramflíčkách, v úzké kostkované sukni a těsném červeném svetříku, které již tehdy podtrhovaly její dozrávající ženskost. Musela však uznat, že dcera, třebaže až inverzně nepodobná, oplývá nemenším kouzlem. Snažila se vcítit do jejích myšlenek a přemáhala dojetí.
@@ -12,8 +10,6 @@ Paní Tachecí se rozpomínala na svou cestu k vyšší dívčí. Viděla se op
 Lízinka
 
 ## 10
-
-  
 
 pozorovala taxikáře. Kdykoli zahýbal vlevo, přetočil pravou ruku až na levou stranu. Kdykoli odbočoval vpravo, přehmátl levou rukou až k pravé a táhl oběma. Když jel rovně, držel pravou ruku na horní a levou na spodní straně volantu.
 
@@ -48,8 +44,6 @@ Vzpomněla na svou matku u prahu vyšší dívčí a udělala Lízince na čel
 – No těbůh, řekl
 
 ## 11
-
-  
 
 hezký, ale podivně bledý chlapec. Seskočil z okenního rámu a hleděl na ni s obdivem i údivem.
 
@@ -105,8 +99,6 @@ Vlk si plivnul do dlaní a dal se do díla. První tři pověsil sám, ale jak 
 
 ## 12
 
-  
-
 státní funkce, vzrůstal odpor zbývajících. Čtyřku drželi už tři spo­mocníci, a přece potřeboval tři pokusy, než se mu ruk-cuk podařil. Pravda, nikdo by mu nevytkl, kdyby zrovna těmhle postaru podrazil stoličku a nechal je, aby se udusili sami, jak kdo nejlíp umí. V té době však začal svůj obor systematicky studovat a jeho excerpce z literatury plnily pátý sešit; úkol, který mu byl zadáván stále častěji a v rozsahu, kdy se i nejlepší kumšt stává řemeslem, vzdor tomu právě přerůstal v úděl.
 
 Když odváželi stojan se Čtyřkou do rakvárny, kde zákazníci dozrávali – profesionální hantýrku si jako v každém povolání vynutil život – pro úředního lékaře, aniž brzdili další provoz, a do věšárny vezli zpět první, lékařem uvolněný, oslovil mladičkého pomocníka; už několikrát si počínal po Karlíkovi nejšikovněji a navíc ho ani na chvilku neopouštěl jiskřivý humor, kterého zažil Vlk na placech jako šafránu. Zrovna před okamžikem, když Čtyřka nadlidskou silou podruhé vyprostil svůj ohryzek a vydával i přes roubík nepříjemné skřeky, ten hoch, který držel rozdělaného za vlasy, škubl jeho hlavou a houkl mu do ucha.
@@ -148,8 +140,6 @@ Ze skupiny svědků se ozval řídký potlesk. Koutkem oka Vlk zahlédl, že tle
 Probudila ho intenzivní palčivá bolest v klíně a vzápětí, když zjistil, kolik uhodilo, se měl zatraceně co ovládat, aby tu
 
 ## 13
-
-  
 
 kurvu nezabil. Bůh suď, odkud je na tyhle večírky vozili, stále nové a nové rozdychtěné tváře, a právě on – bůh ví, jakým temným pudem vytušily jeho funkci – je rozdražďoval k nepříčetnosti. Čím víc je odmítal a přehlížel – věděl, že jeho monogamie je až chorobná, ale nemohl si pomoci –, tím víc ho pronásledovaly. Tahle se k němu neváhala vplížit, aby ho mohla mít i bez jeho vědomí, a on si byl jist, že kdyby ji zmlátil, způsobí jí další rozkoš. Proto ji jen vyhodil.
 
@@ -329,8 +319,6 @@ Zvedl pravou nohu a přenesl těžiště těla nad práh
 
 ## 14
 
-  
-
 třídy. V tom zlomku vteřiny jako by se zastavil čas a on byl uprostřed kroku vtažen do živého obrazu kolem Lízinky; klouzal, sám dosud nespatřen, pronikavým pohledem z tváře na tvář, připomínaje si jména, biografie i povahové rysy svých budoucích žáků:
 
 František (15), stejně dobromyslný jako tlustý, IQ při spodní hranici průměru, vzdor obezitě zdatný, hobby: vzpírání, otec: oblíbený vězeňský dozorce, kvůli němuž se recidivisté těšili na kriminál; několikrát vyváděl do věšárny Vlkovy zákazníky a o přijetí syna ho požádal sám, vycházeje kupodivu ze stejné myšlenky, že je to obor jako jiný a vyžaduje vzdělání; přijetí bylo proto i odměnou za mravní idealismus otce, sledujícího zájem nejen dítěte, ale také společnosti.
@@ -344,8 +332,6 @@ Ti čtyři byli zhruba stejně staří jako Lízinka. Zbylí dva starší. Šimo
 Poslední z hochů Richard (17) – ztratil dva roky v sanatoriu, ale byl opět zcela fit – měl téměř všech pět pé: slušný IQ, mnohostranné zájmy, vysokou, štíhlou a trénovanou postavu, jako by jeho matku oplodnil Discobolos, a ke všemu byl synem řezníka! Právě on byl však přijat jen a jedině kvůli
 
 ## 15
-
-  
 
 Lízince Tachecí.
 
@@ -462,8 +448,6 @@ V tu chvíli jako by na jeho lysé lebce vypučely tmavé, mastné vlasy, propa
 – Quidquid agis, prudenter agas, řekl Doktor, když mu lil Black
 
 ## 16
-
-  
 
 Label na kostky ledu, které hlasitě pukaly, – neboli Cokoli děláš, dělej rozvážně. Ti chlapci to trochu přehnali a mají na svědomí mnohé z našich problémů. Kdo je nutil nadělovat špagáty jako pomlázku? I tady platí Méně je někdy více.
 
@@ -611,8 +595,6 @@ zvolal Doktor a z jeho hlasu znělo nadšení skalního přívržence,
 
 ## 17
 
-  
-
 – ne?
 
 – Bože, řekl náhle Šimsa, – bože, podívej se na tohle!
@@ -745,8 +727,6 @@ Vychýlil těžiště těla z váhy, dokročil na pravou nohu a byl konečně 
 
 ## 18
 
-  
-
 třídě. Cítil za sebou netrpělivý dech Šimsův, ale nechtěl porušit kouzlo okamžiku. Díval se na ně, zatímco oni stále hleděli na Lízinku, dojati, rozrušeni, nebo alespoň zmateni jako každý, kdo ji spatřil poprvé.
 
 František přímo fyzicky pocítil svou neforemnost a zastyděl se za vysazované džíny, jimiž se dosud chlubil. Dvojčatům náhle došlo, že dokonalá podobnost není přednost, ale hendikep, který každého z nich zbavuje osobitosti. Albert po dlouhé době poklesl pod tíhou hrbu: pochopil, že svaly si vynutí respekt, ale ne lásku. Šimon nebyl obdařen inteligencí ani citem, ale jeho animální instinkt mu napověděl, že pokud opravdu nepotkal anděla, je svědkem něčeho stejně mimořádného. A Richard si vzápětí, co zaregistroval svůj ruměnec, uvědomil, že se zamiloval.
@@ -770,7 +750,5 @@ opakoval a zakašlal teď sám, aby zakryl přede všemi, že příčinou změn
 – děcka, jdeme
 
 ## 19
-
-  
 
 na to!

@@ -3,13 +3,9 @@ title: VI
 contentType: prose
 ---
 
-  
-
 Na pondělí 30. června měl Vlk do smrti vzpomínat. Od studentských let, kdy se doslova pročetl městskou knihovnou a vystál důlek na bidýlku divadla, opovrhoval příběhy, kde se v poslední kapitole či dějství všechno vyřeší a všichni šťastně vezmou. Teď bylo souzeno právě jemu, aby v jednom dni korunoval své dílo a život. Čekal ho nadlidský výkon a on se ho odvážil jen proto, že si věřil a spoléhal na své blízké. Jak byl teď vděčný za roky učitelování, kdy se naučil navázat s každým člověkem rychlý kontakt a získat jeho důvěru. A blahopřál si k rozhodnutí zůstat navždy po
 
 ## 50
-
-  
 
 Markétině boku, čímž si trvale zajistil její nepostradatelnou podporu v životních krizích. Když jí teď polibkem děkoval za snídani – připravila mu ‚pracovní‘, tedy opulentní verzi, corn flakes s mlékem, dvě pětiminutová vejce, topinky s jamem a silný anglický smoked tea –, věděl, že si s ní nemusí dělat hlavu.
 
@@ -43,8 +39,6 @@ Dívka stále neotvírala oči, ale když se znovu pokusil z ní vyjít, zaúp�
 
 ## 51
 
-  
-
 kupé. Komando vedl mladý celník. Šedesát hodin nestačilo, aby se rozplynul stesk, který se ho zmocnil, když Lízinku pohltila cizina. Celou tu dobu v něm zrál vztek na odbarveného panáka, jehož svinské úmysly by mohl odpřísáhnout u soudu. Otaxíroval ho na módního kadeřníka nebo vrchního z nóbl hotelu. Lízinka však viditelně nepatřila mezi devizové doroty; bylo zřejmé, že s ním jede počestně a důvěřivě, jako by cestovala s tetou. Celník skoro nespal, jak jí držel palce, aby tomu starému děvkaři odolala. Všiml si tehdy, že mají vízum na tři dny, a vzal si dnes denní i noční v naději, že se s ní znova setká. Nehodlal se zdržovat prohlídkou, vždyť ten grázl jistě všecko schová k ní. Vy jste její dědeček? chtěl se ho za to zeptat; s kamarádem od zelených domluvil, že si chlápka na chvíli vytáhnou do kanceláře. Zatím si s ní dá rande, hotov přijet kdykoli kamkoli.
 
 Když bušil do dveří, nešlo mu už vůbec o stát, byl věčný Montek, jemuž vedle prznili Julii. A když odemkli, objevil za hromadou balíků obraz, jaký neviděl v nejobscénnějším z pánských žurnálů, které tu zabavoval. Navždy mu měla utkvět bezbranná kolínka, jak balvanem rozvrácená nahým zadkem. Vrhl se na majitele, zapomenuv na pultík s razítky, který nesl na břiše. Překližka nárazem praskla, Vlk vyjekl. Napínaje hýžďové svaly, aby čelil úderům celníkových pěstí, překonal šok a začal aktivně jednat.
@@ -73,11 +67,11 @@ Vrhl na dívku tázavý pohled, v němž se odráželo znepokojení. Slabě zav
 
 ## 52
 
-  
-
 třídě. Jednotné oblečení vymyslel Albert: když kvůli utajení neměli být členy mládežnické organizace, ať ukážou alespoň svým vzhledem, že se hlásí k jejím principům. Pravý důvod studijní vedoucí zatajil: špatně střižené konfekční košile přispívaly k dojmu, že tělesnou vadu mají všichni.
 
 S jejich zevnějškem byl Vlk vcelku spokojen, ale pokud jde o šance, měl smíšené pocity. Výsledky písemek, které dělali v sobotu, obcházejíce už prázdné budovy odborných učilišť, kde na ně čekali jejich onesové, se extrémně rozcházely. Ze čtyř předmětů měl výbornou Albert. Tabulka třídního středu vypadala pestře:
+
+  
 
     
 
@@ -130,6 +124,8 @@ Tachecí Líz
 3
 
 3
+
+  
 
 Šimon Hus měl tři nedostatečné a ones ze Sošky ho odmítl klasifikovat. Zná sice, napsal do posudku, každý orgán v těle, ale užívá pro ně výrazů, které by slušely rasovi nebo katovi; ones to hodnotil jako hloupou recesi. Vlk pochopitelně mohl dnes Šimona podržet, vždyť rozhodovala známka z hlavního předmětu. Zvítězil však jeho mysl pro fair play i reálná úvaha, že škole méně uškodí žák, který propadne při maturitě, než žák, který vybouchne po ní. Ponechal rozhodnutí osudu a komisi.
 
@@ -193,8 +189,6 @@ Když za ním zapadly dveře WC, řekl Doktor ohromenému Vlkovi, aby to neslyš
 
 ## 53
 
-  
-
 hrb, proti stolu komise, čekaje, až k němu přijde Doktor s kloboukem. Bylo čtvrt na dvanáct a on s Lízinkou zbyli naposled. Vlk stanovil pořadí skoro vědecky, vycházeje ze všech aspektů. Napřed měli maturovat průměrní, aby nerozkolísali měřítka k extrémům, tedy Kazík a oba Králové. Chvíli uvažoval zařadit každého Krále do jedné trojice, aby se případně stačili přečesat, ale zvítězil názor, že po přestávce musí nastoupit trio Šimon–Albert–Lízinka. Měl pro to vážný důvod.
 
 Z Doktorova klobouku, jehož obsah bývalý prokurátor jako pověřený předseda komise důkladně zkontroloval, si František vytáhl dvě kuličky různých barev: na bílé papírky napsal Doktor s Vlkem po páteční poradě otázky z Klapopru, na růžové z Mopo. Bílý los určil Kazíkovi obtížný Katalog středověkých trestů. Jak Vlk očekával, skočil však do vody a plaval bez ohledu na styl, aby se neutopil; podle zákona schválnosti si tenhle tahák nenapsal. Správně uvedl, že trest smrti byl tenkrát na všecko, a tak mohl plnit výchovnou úlohu jen dík nuancím: za kriminalitu byl věšák nebo kolo, zatímco pro disidenty stětí, případně čtvrcení; dámské, jak řekl, neplechy přikryla voda nebo zem, a konečně čarodějnice a buzeranti zahučeli v ohni. Nemohl tušit, že si tím posledním výrokem zatápí pod sebou.
@@ -249,6 +243,8 @@ I elektrokuci Pavel zvládl. Popsal upevňování elektrod včetně rozstřiže
 
 Správně uvedl Pavel i obě soupeřící školy, nízko- a vysokovoltážní. Zatímco první, psal pod sebe na tabuli, pouští do těla
 
+  
+
  
 
 50 vteřin
@@ -262,6 +258,8 @@ Správně uvedl Pavel i obě soupeřící školy, nízko- a vysokovoltážní.
 50 vteřin
 
 … 500 voltů
+
+  
 
 a před vypnutím 5 vteřin 2000 voltů jako ránu z milosti, druhá začíná u deseti tisíc voltů a jde až do třiceti; ta je populární z filmu a televize, protože při ní efektně pohasínají světla v celé věznici. Nevýhodou první je někdy zdlouhavost, diskutovaná už v roce 1929, kdy Roy Paterson v Auburnu nabíjel, vyprávěl Pavel, Mary Farmerovou proudem jako baterii skoro hodinu, než přestala vřískat. Výhodou je, že ani tak dlouhý tok nezanechá jiné stopy než deformovanou hlavu, zkřivenou tvář a lehké popáleniny končetin. Naproti tomu Henry White v Ohiu, který přežil úvodních deset tisíc, byl po ztrojnásobení hotov hned, ale vyrazil z něho plamen a svědkové omdlévali smradem; hysterický lékař navíc prohlásil, že White byl v rozporu s rozsudkem upečen.
 
@@ -467,8 +465,6 @@ Při tom potlesku, patřícím po létech opět konkurentu, Vlkovi zatrnulo. Byl
 
 ## 54
 
-  
-
 Lízinky a ona se nehlásila, podlehl výčitkám: místo, aby jí spěchal na pomoc – v mozku mu ryla představa barbiturátů v jejím nočním stolku –, ležel tu, v podstatě příjemně, s dívenkou, která mu dala hodně, ale ve srovnání s Markétou skoro nic. Nemohl však ani poručit přírodě, ani když svěrák lásky konečně povolil, okřídlit taxikáře, který je vezl z hranic, protože vlak ovšem nepočkal; mohl ho jen tučným spropitným zavázat, aby se o spící postaral, a nechat se přednostně zavézt domů. Odemkl, právě minula šestá, zděsil se.
 
 Jejich byt, vždycky až sterilně čistý jako její ordinace, nesl všecky známky divoké loupeže nebo policejní prohlídky. Už v předsíni se musel brodit haldami předmětů, které se roztékaly přes prahy kuchyně, obýváku i pracovny. Když rozsvítil – v bytě bylo dosud šero –, zjistil, že šlape po své obuvi vytahané z botníku, po svých šatech strhaných z ramínek, po spodcích a košilích vyházených z prádelníku a neskutečně zmuchlaných, i po krásné, a dokonce odborné literatuře vyvržené z knihovny. Jako ve snu došel ke dveřím ložnice, a když je otevřel, pochopil, proč se i nejinteligentnější lidé stávají vrahy, ačkoliv si dovedou spočítat, že skončí rukou úkonáře.
@@ -528,8 +524,6 @@ a pak zvlhlí potem hýčkali jeden druhého v náručí, dokud se jejich dech
 – Bedy, myslím, že budeš mít od minule
 
 ## 55
-
-  
 
 syna.
 
@@ -640,8 +634,6 @@ A bývalý prokurátor zapsal Lízince důležitě trojku, aniž postřehl, ten
 – Ježíšmarjá, pane doktore, projevil se solidárně
 
 ## 56
-
-  
 
 vrátný, – on se jistě vrátí, Vonásek je jako hodiny, akorát holt má ty zuby…!
 
@@ -825,8 +817,6 @@ jeho dítě. Když opět stanul na prahu pokoje, byl do pasu nahý, z úst mu j
 
 ## 57
 
-  
-
 kati??
 
 Ve tři čtvrti na tři, těsně než náčelník věznice přivedl hosty, volal zezdola Karlík, aby mu šli pomoct. S Kazíkem a bratry Královými vystrkali nahoru po schodech dva nádražácké rudly: na jednom byl přivázán koš, z něhož zaznívalo divoké kvičení, na druhém tichý lodní kufr. Jen je stačili zamknout do prkovny, když na vnější mříži SUPOVu zarachotily klíče.
@@ -983,8 +973,6 @@ S posledním slovem zaduněl z magnetofonu populární pochod, který budíval
 
 ## 58
 
-  
-
 Šimsa.
 
 – Ale jak, zeptal se Vlk ohromeně, když mu Doktor detailně vypověděl příhody dvojice Šimsa–Tachecí od rendez-vous pod sochou řezníka s teletem až po návrat poručíka Honse s kafíčkem do bývalé kaple, – to víte??
@@ -1048,8 +1036,6 @@ Lízinky. V současně dohasínajícím i vybičovaném, a proto zcela vykole
 Lízinka na popelnici sevřela naopak levou něžnou rukou jeho bradu a pravou něžnou rukou jeho týl, aby hned nato provedla ruk-cuk jako z
 
 ## 59
-
-  
 
 učebnice.
 
@@ -1203,8 +1189,6 @@ Nedokončil, když našel desetikorunu a navíc zjistil, že ho žena neposlouc
 
 ## 60
 
-  
-
 Markéty a Bedřicha Vlkových zrušil –
 
 dodala soudkyně, odkládajíc papír,
@@ -1280,8 +1264,6 @@ Vlkovi vytanul uměle zbědovaný stařec, který se mu v řinčivé tramvaji �
 – Vážený a milý pane profesore, promluvila, rozechvěna svým pověřením i jeho blízkostí, – dovolte mi, abych vám ještě jednou v klidu a jen mezi námi nejbližšími z celého srdce poblahopřála k vašemu životnímu úspěchu i poděkovala za péči, kterou jste zahrnul naše
 
 ## 61
-
-  
 
 děti…!
 
@@ -1571,14 +1553,10 @@ Vlk objal svou lásku tak pevně, že jeho velká dlaň docela zajala malé ňad
 _– Gaudeamus igitur,  
 iuvenes dum sumus…_
 
-  
-
 opakovala děcka. A co když, napadlo Vlka znenadání, za nějakého horkého včera, kdy budou všichni tři doma jen tak na lehko, je v návalu citu i vášně obejme obě dvě? Jakmile bude mít Lízinku nejen před Bohem a lidmi, ale i před úřady, jakmile u něho zdomácní, pominou přece i důvody svaté lži! Proč by ho pak obě ženy, které ho milují, nemohly milovat současně??
 
 _– Nestor, Doktor, Prk i Ones,  
 ecce, hic sunt poprawczones!_
-
-  
 
 zpívala děcka a tu si Vlk povšiml, že ústa paní Lucie jsou dosud tak pootevřená, jak je opustil jeho jazyk, a že v přimhouřených očích není odpor, ale naopak žádost. Dobré nebe! řekl si, vždyť ta mě taky miluje! Jako ve filmové roztmívačce zaznamenal poprvé její světové – podtrhovaly je modelové šaty z Francie, které konečně přišly ke slovu – parametry; zdola nahoru je zkušeně odhadl s přesností plus minus centimetr na 90-60-105. Pochopil zároveň, jak neukojená musí být tato smyslů plná žena vedle asketického doktora Tachecího, a z podbřišku vyšlehl podnět, který mu v mozku rozsvítil jako reklamní neon u vchodu do ráje magický trojúhelník 1) ženských vnad paní Lucie, 2) chlapeckého půvabu Markétčina a nad nimi 3) Lízinčiny dívčí krásy, v jehož geometrickém středu stál on s užaslou, protože předem kladně zodpovězenou otázkou
 
@@ -1589,8 +1567,6 @@ _– Vos habe-ebi-it huuu-uu-mus!_
 Chlapec potřetí zvracel na záchodě, který už raději vyčlenili jen pro něho, když nápis DOMÁCÍ přepsali na ŠIMON, a jeho otec sípavě spal na lůžku gilotiny, odkud odstranili zbytky ženské Zujky, protože v tento
 
 ## 62
-
-  
 
 noční čas byla věznice zavřená, ale na to byli všichni upozorněni předem a do pěti zbývaly slabé tři hodinky. Když Vlk, rozpálený tancem s paní – zapomněla na ostatní starosti, když zjistila dvakrát za sebou, že s budoucím zetěm je schopna dosahovat útěšného břehu i na parketu! – Lucií, odhrnul zatemnění a pootevřel okno, nejenže uviděl bledý pruh nad protějším křídlem, v němž také svítila zamřížovaná okna, která však, pokud byly místnosti za nimi obsazeny, nezhasínala nikdy, protože patřila – za týden tam měl debutovat Albert – čekárnám, ale uslyšel už také první pípnutí na úvod ranního koncertu ptactva. Večírek dosahoval hodu, ve kterém se i vzhůru vystřelená kulka pomalu zastavuje, aby zanedlouho podlehla zákonu gravitace. Přestože vypil neskutečné množství – Doktor se mu před odchodem revanšoval telefonátem Nestoru, který ještě před zavřením poslal dva kartony polosuchého – sektu, anebo snad právě proto! měl hlavu lehkou jak pouťový balonek a stejně transparentní myšlenky. Ohlédl se.
 
@@ -1608,8 +1584,6 @@ Zůstal s ní několikrát po škole v pracovně, aby ji na VLTAVĚ zaškolil,
 
 ## 63
 
-  
-
 rozskočil stůl: v roztržitosti způsobené únavou sáhla na druhé tlačítko. Potěšilo ho, že to hned s provinilým – bože, stejně je pořád dítě! – výrazem napravila: díly se vrátily k sobě, jen mu přivřely límec – chytla si mě jak babočku-admirála…! – saka. Podruhé se už nespletla a tři ocelové – měly by být bílá, černá a zlatá! – manžety mu obepnuly kotníky, boky i krk.
 
 Překvapil je další potlesk, pravda, připomínal spíš tlukot holubích – únava byla už všeobecná – křídel, ale tím byl srdečnější. Aniž si povšiml, obklopili je skoro všichni ostatní, vesele oceňujíce Lízinčin výkon. Dívka však, jako by nebyla středem pozornosti, stála vedle – s rukou na ovládacím panelu – VLTAVY, ale už zas neodtrhovala zrak od Šimsy. Tiše zářila.
@@ -1619,7 +1593,5 @@ Překvapil je další potlesk, pravda, připomínal spíš tlukot holubích –
 – Ani se mi, řekla Lízinka šťastně,
 
 ## 64
-
-  
 
 – neuprd.

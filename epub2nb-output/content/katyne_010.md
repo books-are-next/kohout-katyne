@@ -3,15 +3,11 @@ title: IV
 contentType: prose
 ---
 
-  
-
 V pátek 21. března večer, na prahu první noci nového jara, zazvonil u Šimsy telefon. Docent ležel na vojensky ustlaném gauči sám a oblečen. Pozoroval hru stínů na stropě, která zrcadlila jeho vnitřní neklid.
 
 První zazvonění neslyšel, při druhém až pátém pomalu, protože se tomu bránil celý jeho organismus, vyplouval ze snění; při sedmém se ho zmocnila nelibost, při osmém zlost, při devátém vztek a při desátém přímo fyzický odpor ke zvuku ztělesňujícímu neosobní síly, které ho manipulovaly celý život. Při jedenáctém se zařekl, že už nikdy neposlechne jinou autoritu než své srdce; zmobilizoval vůli a vrátil se k představám, ze kterých byl tak brutálně vyrušen. Při devatenáctém zazvonění ovládl bitevní pole v něm jeho odvěký nepřítel, který, jak si poprvé uvědomil, dosud vždycky porazil a rozprášil jeho druhé, svobodnější já: byl to dril. Uprostřed dvacátého
 
 ## 30
-
-  
 
 zvedl sluchátko.
 
@@ -72,8 +68,6 @@ Ta myšlenka protáhla Šimsu řídkým sobotním provozem přes město až k b
 Docent Šimsa zavěsil
 
 ## 31
-
-  
 
 lyže na kolík dvousedačky a mrštně se vyhoupl na svou půlku místo Vlka, který si chtěl počkat na Mašína. S rozkoší zavnímal první hup, kterým ho lanovka odtrhla od země. Měl pocit, že se trhá i od všech povinností, od svého osudu, ano i od pozemské tíže, a pluje vstříc krajinám snů.
 
@@ -177,8 +171,6 @@ dodal ženský hlas, který se už nesnažil utajit bezbřehou vášeň,
 
 ## 32
 
-  
-
 lyžařský zájezd prodlužuje, neřekl všecko.
 
 – Vy mne, řekla paní Tachecí, povstávajíc od kávového stolku, kam sotva dosedli, – pane docente, lekáte, stalo se něco naší, pokračovala, tisknouc pravou ruku na levý prs,
@@ -243,8 +235,6 @@ Doktor Tachecí nevěřil svým očím. Na místě, které šestnáct let patři
 
 ## 33
 
-  
-
 inženýr Alexandr, – divíš se?
 
 – Nazdar, řekl doktor Tachecí, – totiž dobrý den, ano, totiž ne. Usilovně si lámal hlavu, proč ho tchán prvně v životě navštívil v ústavu. Jediné logické vysvětlení, že mu přinesl Sturzovo Etymologicum Gudianum, mu připadalo bájně nepravděpodobné.
@@ -278,8 +268,6 @@ Když už už dosahoval vrcholu a zalykal se představou osvobodivého pádu, p
 – Dělej, proboha dělej!
 
 ## 34
-
-  
 
 vykřikla Lucy, už už dohmatávajíc na břeh, kam naposled vystoupila před šestnácti lety s bezcharakterním Oskarem.
 
@@ -352,8 +340,6 @@ dodal s odporem,
 – Madame, řekl
 
 ## 35
-
-  
 
 Šimsa, přerušiv konečně mlčení, – vyřiďte laskavě dceři, ať si vezme zubní kartáček, vrátíme se až –
 
@@ -442,8 +428,6 @@ Ještě když mluvil, ozval se křik ptáka, který zněl jako volání hladové
 Šimsa přistoupil blíž, aby si naposled prohlédl tvář muže, který z něho udělal člověka, a pak v nezkrotné pýše, ješitné nadřazenosti, v sobeckém zájmu, či dokonce za mrzký peníz prodal vlastní lidství. Je možné, podivil se, že se tolik dějů vešlo do dvou let? Levou rukou přitiskl masivní hlaveň devítky těsně nad kořen nosu, aby dráha střely proťala celý prostor, ve kterém spřádal intriky ten jidášský mozek. Zachytil povzbudivý pohled
 
 ## 36
-
-  
 
 Sedmého a nahmátl lučík spouště.
 
@@ -659,8 +643,6 @@ Tlak v genitáliích překročil únosnou mez. Šimsa hlasitě za­úpěl. Prok
 
 ## 37
 
-  
-
 si to sám.
 
 Z koupelny se vrátil nový člověk. Ničivý tlak neškodně odezníval nejinak než vytržený zub. Jako každý muž, který v poryvu vášně odhodí zátěž semene, pocítil, i když to učinil tak pro sebe nezvyklým způsobem, báječnou lehkost; připadal si jako řízený balon, který pluje bezhlučně s oblaky. Vše se vrátilo do obvyklých proporcí, z ptačí perspektivy ještě přehlednějších: ona byla nezkušené, i když okouzlující dítě, zatímco on už přece jen něco – usmál se – zažil a hlavně – zvážněl – přežil.
@@ -680,8 +662,6 @@ použitou. Viděl největší salonek nejlepšího hotelu ve městě, stoly proh
 Byl natolik zajatcem své vášně, že ani nepozdravil domovnici, která uraženě přestala zametat a fixírovala ho pohledem, aby mu pak rychle ustoupila z cesty, když spatřila jeho výraz; nebyla to však nepříčetnost, ale už zase znovu touha, co ho po hodinách mučivého polobdění vyvrhlo na břeh
 
 ## 38
-
-  
 
 rána a protáhlo za volantem sportovního vozu řídkým sobotním provozem k bráně jatek. Pod sochou telete, důvěřivě hledícího na sochu řezníka s palicí, spatřil poskakující postavičku. Zář jejích vlasů mu vrátila soudnost, připomněl si první přikázání milostného lovu: Čím víc od ní chceš, tím míň po ní žádej. Dupl na brzdy a zastavil bravurně těsně vedle ní.
 
@@ -781,8 +761,6 @@ Levou rukou vytáhl průkaz v karmínových deskách a přiložil jej k otvor
 
 ## 39
 
-  
-
 tlusťoška, – nic tu o vás nemám.
 
 – Ani na zítřek? zeptal se Šimsa nervózně. Pravičkou stále hladil Lízinčiny prsty, snažil se ji doteky elektrizovat, aby s ní neztratil kontakt.
@@ -876,7 +854,5 @@ Pšouk.
 Bleskurychle se ohlédl. Müller nestál ani na špičkách, ani na chodidlech, ale klátil se na patách zleva doprava a zpět, protože celou váhu jeho těla nesl
 
 ## 40
-
-  
 
 krk.
