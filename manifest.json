@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kohout-katyne-3a61506",
-  "revision": "3a61506",
+  "identifier": "kohout-katyne-2f84b44",
+  "revision": "2f84b44",
   "readingOrder": [
     "promo.html",
     "katyne_005.html",
@@ -24,8 +24,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:03:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949021407
+    "date": "Mon Jun 13 2022 21:55:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157325861
   },
   "documents": [
     {
@@ -685,9 +685,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 559,
-      "ideas": 7,
+      "words": 113,
+      "chars": 717,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "katyne_013.html",
@@ -705,9 +705,9 @@
   ],
   "totals": {
     "all": {
-      "words": 107184,
-      "chars": 654899,
-      "ideas": 2983
+      "words": 107214,
+      "chars": 655057,
+      "ideas": 2991
     },
     "chapters": {
       "words": 107096,
