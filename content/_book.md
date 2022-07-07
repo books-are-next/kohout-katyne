@@ -24,7 +24,7 @@ readingOrder:
   - katyne_011.html
   - katyne_012.html
   - katyne_013.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
