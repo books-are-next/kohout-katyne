@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kohout-katyne-f1c18c8",
-  "revision": "f1c18c8",
+  "identifier": "kohout-katyne-6ea3336",
+  "revision": "6ea3336",
   "readingOrder": [
     "promo.html",
     "katyne_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:45:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901918879
+    "date": "Tue Oct 04 2022 18:39:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908769325
   },
   "documents": [
     {
